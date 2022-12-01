@@ -1,0 +1,15 @@
+{
+  "name": "algorytmy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "shit-sort": "ts-node ./src/shit-sort.ts",
+    "merge-sort": "ts-node ./src/merge-sort.ts",
+    "trie": "ts-node ./src/trie.ts"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.3"
+  }
+}
